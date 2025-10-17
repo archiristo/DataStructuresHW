@@ -9,7 +9,7 @@
 </div>
 <div>
   <h3>Example-2</h3>
-  <p>.The overall time complexity (Big O) of this code is O(nlogn).
+  <p>The overall time complexity (Big O) of this code is O(nlogn).
     This is because the slowest-running part of the code is the while loop, which pops elements off the stack one by one.</p>
 </div>
 <div>
